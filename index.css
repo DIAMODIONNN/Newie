@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 20px 0px 100px 177px;
+    box-sizing: border-box;
+}
+
+
+.Egypt {
+    width: 57em;
+    height: 14em;
+    padding: 0px;
+    margin: 170px 0px 0px 1px;
+    background-color: aqua;
+    display: none;
+}
+
+
+
+.Emirate {
+    box-sizing: border-box;
+    width: 57em;
+    height: 14em;
+    padding: 0px;
+    margin: 170px 0px 0px 1px;
+    background-color: aqua;
+    display: none;
+}
+
+
+.Palestine {
+    width: 57em;
+    height: 14em;
+    padding: 0px;
+    margin: 170px 0px 0px 1px;
+    background-color: aqua;
+    display: none;
+}
+
+.Libanon {
+    width: 57em;
+    height: 14em;
+    padding: 0px;
+    margin: 170px 0px 0px 1px;
+    background-color: aqua;
+    display: none;
+}
+
+
+
+button
+{
+    color: white;
+    border-radius: 0.5em;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 1.25em;
+    margin: 20px;
+    text-align: center;
+}
+
+#Emirate{
+    background-color: aqua;
+}
+#Palestine{
+    background-color: purple;
+}
+#Libanon{
+    background-color: green;
+}
+#Egypt{
+    background-color: red;
+}
+
+#No_city{
+    background-color: blue;
+}
+
